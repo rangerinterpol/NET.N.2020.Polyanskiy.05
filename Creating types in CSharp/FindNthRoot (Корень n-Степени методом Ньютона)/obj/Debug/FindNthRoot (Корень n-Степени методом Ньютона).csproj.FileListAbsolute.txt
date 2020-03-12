@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\bin\Debug\FindNthRoot (Корень n-Степени методом Ньютона).exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\bin\Debug\FindNthRoot (Корень n-Степени методом Ньютона).exe
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\bin\Debug\FindNthRoot (Корень n-Степени методом Ньютона).pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\obj\Debug\FindNthRoot (Корень n-Степени методом Ньютона).csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\obj\Debug\FindNthRoot (Корень n-Степени методом Ньютона).exe
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\FindNthRoot (Корень n-Степени методом Ньютона)\obj\Debug\FindNthRoot (Корень n-Степени методом Ньютона).pdb

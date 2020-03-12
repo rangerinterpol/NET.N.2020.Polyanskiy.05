@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\obj\Debug\Strategy. Метод пузырьковой сортировки.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\bin\Debug\Strategy.Метод_пузырьковой_сортировки.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\bin\Debug\Strategy.Метод_пузырьковой_сортировки.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\bin\Debug\Strategy.Метод_пузырьковой_сортировки.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\obj\Debug\Strategy.Метод_пузырьковой_сортировки.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Creating types in CSharp\Strategy. Метод пузырьковой сортировки\obj\Debug\Strategy.Метод_пузырьковой_сортировки.pdb
